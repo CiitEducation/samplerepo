@@ -1,0 +1,3 @@
+JavaScript is a scripting framework.
+JavaScript works with boh browser development.
+JavaScript is a dynamic web programming

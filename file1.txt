@@ -1,0 +1,4 @@
+Java is a programming language for web development
+Java is portable language
+Java is secured.
+Java is both compiled and interpreted language
